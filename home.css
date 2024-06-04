@@ -20,5 +20,5 @@ body{
 }
 .links:hover{
     text-decoration: underline;
-    color: white;
+    color: rgb(165, 130, 130);
 }
