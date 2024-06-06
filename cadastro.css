@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    background-color: #053439;
+}
+.cadastro{
+    display: flex;
+    background-color: rgb(138, 102, 55);    
+    justify-content: center;
+    border-radius: 5%;
+    height: 200px;
+    width: 15%;
+    margin: auto;
+    margin-top: 15%;
+}
+.txt{
+    font-family:monospace;
+    margin-left: 20%;
+}
+.btn{
+    margin-top: 10%;
+    margin-left: 20%;
+    display: flex;
+}
