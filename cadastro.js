@@ -9,5 +9,7 @@ function Cadastrar(){
         window.location.href = 'index.html'
         alert("Olá " + nome)
     }
-   
+}
+function Voltar(){
+    window.location.href='index.html'
 }
