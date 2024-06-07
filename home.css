@@ -132,9 +132,9 @@ footer{
     align-items: end;
     display: flex;
     justify-content: end;
-    padding: 1%;
     gap: 30%;
     color: antiquewhite;
     font-size: 10px;
+    width: 100%;
 }
 
