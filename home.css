@@ -129,12 +129,21 @@ header{
 }
 footer{
     background-color: #1D1F1F;
-    align-items: end;
     display: flex;
-    justify-content: end;
-    gap: 30%;
     color: antiquewhite;
     font-size: 10px;
     width: 100%;
+}
+.copyright{
+    width: 100%;
+    align-items: center;
+    justify-content: end;
+    display: flex;
+}
+.rodape{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 50%;
 }
 
