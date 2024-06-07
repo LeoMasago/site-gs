@@ -12,6 +12,9 @@
 # Descrição do projeto:
 Este projeto teve como objetivo, a criação de uma página em HTML, CSS e JavaScript para a Global Solution.
 
+# O que é BlueBacter ?
+BlueBacter é um site de notícias onde os usuários podem confiar para procurar e adquirir conhecimentos sobre a poluição nos oceanos. Com isso, otimizando seu tempo e poupando de espalhar fake news.
+
 # Critérios de avaliação do site Front-End Design:
 - Possuir 6 seções de conteúdo
 - O problema que solução irá resolver - (seção 1)
